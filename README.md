@@ -12,8 +12,8 @@ STEP 5: Print the result. STEP 6: Stop.
 
 ### Program:
 ```
-#Name:Lavanya S
-#Reg no:212222070017
+#Name:S M Kailash 
+#Reg no:212222040068
 
 def sum_digit(n):
        if n<=0:
@@ -44,8 +44,8 @@ STEP 4: Print the result.
 STEP 5: Stop.
 ### Program:
 ```
-#Name:Lavanya S
-#Reg no:212222070017
+#Name: S M Kailash 
+#Reg no:212222040068
 
 def fun(n):
      if (n >0):
@@ -82,8 +82,8 @@ STEP 5: Print the result.
 STEP 6: Stop.
 ### Program:
 ```
-#Name:Lavanya S
-#Reg no:212222070017
+#Name:S M Kailash 
+#Reg no:212222040068
 
 def series(x,n):
          if n==0:
@@ -122,8 +122,8 @@ STEP 7: Stop.
 
 ### Program:
 ```
-#Name:Lavanya S
-#Reg no:212222070017
+#Name:S M Kailash
+#Reg no:212222040068
 
 def is_palindrome(word):
       if len(word)<1:
